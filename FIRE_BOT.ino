@@ -1,7 +1,7 @@
 #include <Servo.h>
 // #include <AFMotor.h>
 Servo myservo;
-
+// Sumit made some changes
 
 int pos = 0;
 const int flamePin = 11;
