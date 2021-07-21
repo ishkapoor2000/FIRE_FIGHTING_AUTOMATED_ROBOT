@@ -13,4 +13,6 @@ This is the official repository of the Fire Fighting Robot under Chimi Changa (R
 
 ## Project Structure
 
+## Components and Working
+
 ### Link to [Visualization](https://www.tinkercad.com/things/3WVauQzXvoe-fire-bot-test-circuit-visualization) [&](https://www.tinkercad.com/things/3WVauQzXvoe) on [Tinkercad](https://www.tinkercad.com/dashboard?type=circuits&collection=designs).
