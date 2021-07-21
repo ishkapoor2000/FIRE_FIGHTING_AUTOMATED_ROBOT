@@ -2,10 +2,10 @@
 This is the official repository of the Fire Fighting Robot under Chimi Changa (Robotics Club).
 
 ## Circuit Visualization and Simulation Snippets
-[]( "")
-[]( "")
-[]( "")
-[]( "")
+![Final Circuit Visualization in Fritzing](./assets/Screenshot.png "Final Circuit Visualization in Fritzing")
+![Sample structure for testing the obsctacle avoidance of bot](./assets/preferable_motor.PNG "Sample structure for testing the obsctacle avoidance of bot")
+![Initial circuit diagram](./assest/ckt_dia.jpeg "Initial circuit diagram")
+![Adafruit motor driver shield](./assets/Shiled.jfif "Adafruit motor driver shield")
 
 ## Description
 
